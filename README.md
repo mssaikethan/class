@@ -1,1 +1,1 @@
-"#my git repository" 
+"#My Git Repository" 
